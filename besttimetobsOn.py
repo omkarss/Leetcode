@@ -21,11 +21,6 @@ def maxProfit(stockprice):
     
     return max_profit
         
-
-
-
-        
-
         #temp.append(stockprice[len(stockprice)]-stockprice[len(stockprice)-2])
 
     
